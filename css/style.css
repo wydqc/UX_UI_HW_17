@@ -32,3 +32,12 @@ p{
 .stacked{
     display: flex;
 }
+
+button{
+    background-color: #EEB20D;
+    color: #ffffff;
+    border-radius: 8px;
+    border: 2px solid #5c595a; /* Grey */
+    padding: 6px 12px;
+    
+}
